@@ -1,0 +1,10 @@
+^C:\USERS\GNOME\DX12OVERLAYTEST\BUILD\CMAKEFILES\67FB4E12B29B9039A6901EBAF4C32F29\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Gnome/DX12OverlayTest -BC:/Users/Gnome/DX12OverlayTest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Gnome/DX12OverlayTest/build/DX12OverlayHook.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

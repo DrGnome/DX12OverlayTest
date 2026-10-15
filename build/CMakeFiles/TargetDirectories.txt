@@ -1,0 +1,5 @@
+C:/Users/Gnome/DX12OverlayTest/build/CMakeFiles/DX12OverlayHook.dir
+C:/Users/Gnome/DX12OverlayTest/build/CMakeFiles/DX12OverlayInjector.dir
+C:/Users/Gnome/DX12OverlayTest/build/CMakeFiles/DX12TextApp.dir
+C:/Users/Gnome/DX12OverlayTest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Gnome/DX12OverlayTest/build/CMakeFiles/ZERO_CHECK.dir
